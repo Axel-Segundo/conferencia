@@ -1,10 +1,8 @@
-package com.platzi.conf
+package com.platzi.conf.view.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.google.firebase.firestore.FirebaseFirestore
-import com.google.gson.JsonObject
-import java.util.*
+import com.platzi.conf.R
 
 class MainActivity : AppCompatActivity() {
 
