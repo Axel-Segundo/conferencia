@@ -1,4 +1,4 @@
-package model
+package com.platzi.conf.model
 
 import java.io.Serializable
 
@@ -10,4 +10,5 @@ class Speaker: Serializable{
     var twitter = ""
     var image = ""
     var category = 0
+
 }

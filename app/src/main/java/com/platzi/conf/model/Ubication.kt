@@ -1,4 +1,4 @@
-package model
+package com.platzi.conf.model
 
 class Ubication{
     val name = "Centro Curtural Roberto Central"

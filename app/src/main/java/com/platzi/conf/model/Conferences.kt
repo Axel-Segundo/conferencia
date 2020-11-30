@@ -1,4 +1,4 @@
-package model
+package com.platzi.conf.model
 
 import java.io.Serializable
 import  java.util.*
